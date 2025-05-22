@@ -1,0 +1,10 @@
+google-generativeai
+fastapi
+uvicorn
+python-dotenv
+pandas
+numpy
+yfinance
+plotly
+python-multipart
+pydantic
