@@ -1,6 +1,6 @@
 # AI Trading Bot with Gemini
 
-**Author:** Arastu Thakur
+**Author:** Kritika Kumari Mishra
 
 This project implements a visually-rich trading bot dashboard that uses Google's Gemini AI for market analysis and insights. It features a modern, interactive dashboard for visualizing data, technical indicators, and controlling the bot.
 
@@ -88,5 +88,3 @@ This project implements a visually-rich trading bot dashboard that uses Google's
 This is a dummy trading bot for educational purposes. It does not execute real trades but provides analysis and insights using Gemini AI. Market data and AI insights are for informational purposes only. Always consult a financial advisor before making investment decisions.
 
 ---
-
-**Made with ❤️ by Arastu Thakur** 
